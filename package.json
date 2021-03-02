@@ -4,20 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "serve ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sherbst/www.sawyerherbst.com.git"
   },
   "author": "Sawyer Herbst",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sherbst/www.sawyerherbst.com/issues"
   },
   "homepage": "https://github.com/sherbst/www.sawyerherbst.com#readme",
-  "dependencies": {
-    "bulma": "^0.7.2",
-    "typewriter-effect": "^2.5.2"
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^11.3.2"
   }
 }
