@@ -1,0 +1,27 @@
+.cursive {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+}
+
+.header {
+    font-family: 'Titan One', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.vertical-spacer {
+    margin-top: 10px;
+}
+
+.projects > li, .contactList > li {
+    margin-top: 10px;
+}
+
+.padding-left {
+    padding-left: 10px;
+}
+
+.infoFooter {
+    margin-bottom: 10px;
+    margin-left: 30px;
+    font-weight: bold;
+    font-size: 10px;
+}

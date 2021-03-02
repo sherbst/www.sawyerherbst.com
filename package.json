@@ -1,0 +1,23 @@
+{
+  "name": "www.sawyerherbst.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherbst/www.sawyerherbst.com.git"
+  },
+  "author": "Sawyer Herbst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherbst/www.sawyerherbst.com/issues"
+  },
+  "homepage": "https://github.com/sherbst/www.sawyerherbst.com#readme",
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "typewriter-effect": "^2.5.2"
+  }
+}
