@@ -1,27 +1,21 @@
-.cursive {
-    font-family: 'Permanent Marker', cursive;
-    font-size: 60px;
+@font-face {
+    font-family: "GlassTTYVT220";
+    src: url("Glass_TTY_VT220.ttf");
 }
 
-.header {
-    font-family: 'Titan One', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-}
-
-.vertical-spacer {
-    margin-top: 10px;
-}
-
-.projects > li, .contactList > li {
-    margin-top: 10px;
-}
-
-.padding-left {
-    padding-left: 10px;
-}
-
-.infoFooter {
-    margin-bottom: 10px;
-    margin-left: 30px;
+body {
+    font-family: "GlassTTYVT220";
+    color: #39ff14;
+    font-size: 2em;
     font-weight: bold;
-    font-size: 10px;
+
+    height: calc(100vh - 40px);
+    width: calc(100vw - 40px);
+    background-color: black;
+    margin: 0;
+    padding: 20px;
+}
+
+a {
+    color: inherit;
 }
